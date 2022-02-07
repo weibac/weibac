@@ -2,7 +2,7 @@
  
  <b>Name:</b> Milan Weibel-Bacovic
  
- Student at UC|Chile
+ Student at <a href=https://www.uc.cl/en>UC|Chile</a>
 
 <b>Contact:</b> milan.weibel [at] uc.cl
 
