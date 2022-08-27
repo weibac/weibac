@@ -1,6 +1,4 @@
- Hi there 👋, I'm Milan
-
- Contact me at milan.weibel [at] uc.cl
+ <b> Hi there 👋, I'm Milan </b>
 
  Student at <a href=https://www.uc.cl/en>UC|Chile</a>
 
